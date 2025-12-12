@@ -1,0 +1,4 @@
+i = int(input("num1"))
+j = int(input("num2"))
+
+print(i*j)
